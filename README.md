@@ -1,6 +1,6 @@
 # Temi Adebowale
 
-**`Senior High School Student (Computer Science Developer/ Investor / Creator)`**
+**` Cornell University Undegraduate (Computer Science Developer/ Investor / Creator)`**
 
 ---
 
