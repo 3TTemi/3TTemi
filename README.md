@@ -1,6 +1,6 @@
 # Temi Adebowale
 
-**` Cornell University Undegraduate (Computer Science Developer/ Investor / Creator)`**
+**` Cornell University Undegraduate (Software Developer/ Product Owner / Investor)`**
 
 ---
 
