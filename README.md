@@ -2,6 +2,15 @@
 
 **` Cornell University Undegraduate (Software Developer/ Product Manager / Investor)`**
 
+### Where I’m involved
+
+| Organization | Links |
+| --- | --- |
+| Underrepresented Minorities in Computing (URMC) | [Website](https://urmc.cs.cornell.edu/) · [GitHub](https://github.com/urmc-cornell) |
+| Cornell Design & Tech Initiative (DTI) | [Website](https://new.cornelldti.org/) · [GitHub](https://github.com/cornell-dti) |
+| Cornell Data Science (CDS) | [Website](https://cornelldata.science/) · [GitHub](https://github.com/CornellDataScience) |
+| TGIPay | [Website](https://tgipay.com/) |
+
 ---
 
 ### Languages/Tools Programmed in: 
