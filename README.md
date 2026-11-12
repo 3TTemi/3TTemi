@@ -4,12 +4,8 @@
 
 ### Where I’m involved
 
-| Organization | Links |
-| --- | --- |
-| Underrepresented Minorities in Computing (URMC) | [Website](https://urmc.cs.cornell.edu/) · [GitHub](https://github.com/urmc-cornell) |
-| Cornell Design & Tech Initiative (DTI) | [Website](https://new.cornelldti.org/) · [GitHub](https://github.com/cornell-dti) |
-| Cornell Data Science (CDS) | [Website](https://cornelldata.science/) · [GitHub](https://github.com/CornellDataScience) |
-| TGIPay | [Website](https://tgipay.com/) |
+<a href="https://urmc.cs.cornell.edu/"><img src="./assets/organizations/urmc.png" width="120" alt="URMC website"></a> <a href="https://new.cornelldti.org/"><img src="./assets/organizations/dti.png" width="120" alt="Cornell Digital Tech & Innovation website"></a> <a href="https://cornelldata.science/"><img src="./assets/organizations/cds.png" width="120" alt="Cornell Data Science website"></a> <a href="https://tgipay.com/"><img src="./assets/organizations/tgi.png" width="120" alt="TGI Pay website"></a><br>
+<a href="https://github.com/urmc-cornell"><img src="./assets/organizations/github-link.svg" width="120" alt="URMC on GitHub"></a> <a href="https://github.com/cornell-dti"><img src="./assets/organizations/github-link.svg" width="120" alt="Cornell Digital Tech & Innovation on GitHub"></a> <a href="https://github.com/CornellDataScience"><img src="./assets/organizations/github-link.svg" width="120" alt="Cornell Data Science on GitHub"></a>
 
 ---
 
